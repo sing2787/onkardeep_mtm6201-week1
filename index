@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Onkardeep Singh</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            text-align: center;
+        }
+        img {
+            width: 200px;
+            border-radius: 100px;
+            margin: 20px 0;
+        }
+        dl {
+            text-align: left;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        dt {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Onkardeep Singh</h1>
+    <img src="https://github.com/sing2787/onkardeep_mtm6201-week1/blob/main/6199508945446488829.jpg" alt="Professional photo of Your Full Name">
+
+    <dl>
+        <dt>Student Number:</dt>
+        <dd>041193313</dd>
+
+        <dt>Program:</dt>
+        <dd>Interactive Media Design</dd>
+
+        <dt>Course:</dt>
+        <dd>MTM6201 - Web Development II</dd>
+
+        <dt>Interesting Fact:</dt>
+        <dd>I own a Ford and I love going on long drives.</dd>
+    </dl>
+</body>
+</html>
